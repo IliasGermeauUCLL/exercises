@@ -5,4 +5,5 @@ def coins(one, two, five, goal):
                 if x + 2 * y + 5 * z == goal:
                     return True
 
-    return False
+
+return False
